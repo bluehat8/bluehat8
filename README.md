@@ -1,6 +1,6 @@
 👋 Hello, It's BlueHat8 dev
 
-Habilities:
+-Habilities:
 -C#
 -NodeJS
 -Python
