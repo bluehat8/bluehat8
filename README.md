@@ -1,4 +1,4 @@
-👋 Hello, It's BlueHat8 dev
+👋 Hello, It's BlueHat dev
 
 Habilities:
 - C#
