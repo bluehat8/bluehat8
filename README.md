@@ -1,6 +1,6 @@
 👋 Hello, It's BlueHat dev
 
-Habilities:
+Abilities:
 - C#
 - NodeJS
 - Python
