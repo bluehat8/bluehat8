@@ -23,9 +23,8 @@
 <div style="display:flex; flex-direction: row;">
   <p>
     <img src ="https://api.iconify.design/skill-icons/python-dark.svg?width=200&height=200"/>
-  </p>
-  <p>
-    <img src ="https://api.iconify.design/skill-icons/python-dark.svg?width=200&height=200"/>
+        <img src ="https://api.iconify.design/skill-icons/python-dark.svg?width=200&height=200"/>
+
   </p>
 </div>
 
