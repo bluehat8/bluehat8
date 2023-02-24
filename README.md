@@ -21,7 +21,7 @@
 
 ## Tech stack
 <p>
-  <img src ="https://api.iconify.design/skill-icons/python-dark.svg"/>
+  <img src ="[https://api.iconify.design/skill-icons/python-dark.svg](https://api.iconify.design/skill-icons/python-dark.svg?width=250&height=250)"/>
   </p>
 
 <!---
