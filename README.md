@@ -1,13 +1,13 @@
 👋 Hello, it's BlueHat dev
 
 ## Profile
--Software QA Analyst
--Software Tester
--Dot net developer
--Python developer
--Data Analyst
+<li>Software QA Analyst</li> 
+<li>Software Tester</li>
+<li>Dot net developer</li>
+<li>Python developer</li>
+<li>Data Analyst</li>
 
-***Tecnologies***
+## Tecnologies
 - C#
 - NodeJS
 - Python
