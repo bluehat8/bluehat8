@@ -22,8 +22,8 @@
 ## Tech stack
 <div style="display:flex; flex-direction: row;">
   <p>
-    <img src ="https://api.iconify.design/skill-icons/python-dark.svg?width=200&height=200"/>
-        <img src ="https://api.iconify.design/skill-icons/grafana-dark.svg?width=200&height=200"/>
+    <img src ="https://api.iconify.design/skill-icons/python-dark.svg?width=100&height=100"/>
+        <img src ="https://api.iconify.design/skill-icons/grafana-dark.svg?width=100&height=100"/>
 
   </p>
 </div>
