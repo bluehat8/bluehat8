@@ -20,15 +20,14 @@
 - JS
 
 ## Tech stack
-<div style="display:block">
-<p>
-  <img src ="https://api.iconify.design/skill-icons/python-dark.svg?width=200&height=200"/>
+<div style="display:flex; flex-direction: row;">
+  <p>
+    <img src ="https://api.iconify.design/skill-icons/python-dark.svg?width=200&height=200"/>
   </p>
-  
-<p>
-  <img src ="https://api.iconify.design/skill-icons/python-dark.svg?width=200&height=200"/>
+  <p>
+    <img src ="https://api.iconify.design/skill-icons/python-dark.svg?width=200&height=200"/>
   </p>
-  </div>
+</div>
 
 <!---
 bluehat8/bluehat8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
