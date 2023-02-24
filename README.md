@@ -20,9 +20,9 @@
 - JS
 
 ## Tech stack
-<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
-<iconify-icon icon="skill-icons:python-dark"></iconify-icon>
-
+<p>
+  <img src ="https://api.iconify.design/skill-icons/python-dark.svg"/>
+  </p>
 
 <!---
 bluehat8/bluehat8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
