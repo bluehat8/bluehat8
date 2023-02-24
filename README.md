@@ -20,7 +20,7 @@
 - JS
 
 ## Tech stack
-<div style="display:flex">
+<div style="display:block">
 <p>
   <img src ="https://api.iconify.design/skill-icons/python-dark.svg?width=200&height=200"/>
   </p>
