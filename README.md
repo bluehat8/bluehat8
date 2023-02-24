@@ -31,6 +31,7 @@
   
   <p>
             <img src ="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>
+            <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"/>
   </p
 </div>
 
