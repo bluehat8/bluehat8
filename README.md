@@ -1,9 +1,18 @@
 👋 Hello, it's BlueHat dev
 
-Abilities:
+# Profile
+-Software QA Analyst
+-Software Tester
+-Dot net developer
+-Python developer
+-Data Analyst
+
+***Tecnologies***
 - C#
 - NodeJS
 - Python
+- Robot Framework
+- Grafana
 - Sql Server
 - MySql
 - Html
