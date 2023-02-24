@@ -26,7 +26,7 @@
         <img src ="https://api.iconify.design/skill-icons/grafana-dark.svg?width=100&height=100"/>
         <img src ="https://api.iconify.design/skill-icons/mysql-dark.svg?width=100&height=100"/>
         <img src ="https://api.iconify.design/logos/c-sharp.svg?width=100&height=100"/>
-        <img src ="https://api.iconify.design/skill-icons/sqlserver-dark.svg?width=100&height=100"/>
+        <img src ="https://api.iconify.design/simple-icons/dotnet.svg?color=%23100&width=100&height=100"/>
     
     
 
