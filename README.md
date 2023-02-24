@@ -7,18 +7,6 @@
 <li>Python developer</li>
 <li>Data Analyst</li>
 
-## Tecnologies
-- C#
-- NodeJS
-- Python
-- Robot Framework
-- Grafana
-- Sql Server
-- MySql
-- Html
-- Css
-- JS
-
 ## Tech stack
 <div style="display:flex; flex-direction: row;">
   <p>
