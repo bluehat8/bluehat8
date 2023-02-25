@@ -4,7 +4,7 @@
 
 <p style="display:flex">
 <li>Email: <a href="mailto:agustin.amaya.g21@gmail.com">agustin.amaya.g21@gmail.com</a></li>
-<p>
+<p style="margin-top:10px">
   <a href="https://ni.linkedin.com/in/agust%C3%ADn-gustavo-amaya-soza-b3b110244"><img src ="https://api.iconify.design/uiw/linkedin.svg?color=%2300aae4&width=40&height=40"/></a>
 </p>
   
