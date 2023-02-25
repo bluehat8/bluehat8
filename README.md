@@ -3,7 +3,7 @@
 ## Contact
 
 ### Email
-<li>Email: agustin.amaya.g21@gmail.com</li>
+<li>Email: <a href="agustin.amaya.g21@gmail.com">agustin.amaya.g21@gmail.com</a></li>
 
 ### Linkedin
   <p>
