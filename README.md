@@ -8,7 +8,7 @@
   </p>
 
 ## Profile
-####<li>Software QA Analyst</li> 
+<li>Software QA Analyst</li> 
 <li>Software Tester</li>
 <li>Dot net developer</li>
 <li>Python developer</li>
