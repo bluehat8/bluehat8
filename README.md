@@ -2,7 +2,7 @@
 
 ## Contact
 
-<p>
+<p style="display:flex">
 <li>Email: <a href="mailto:agustin.amaya.g21@gmail.com">agustin.amaya.g21@gmail.com</a></li>
 
 <li><p>
