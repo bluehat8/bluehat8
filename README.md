@@ -1,5 +1,11 @@
 # 👋 Hello, it's BlueHat dev
 
+## Contact
+
+  <p>
+         <a href="https://ni.linkedin.com/in/agust%C3%ADn-gustavo-amaya-soza-b3b110244"><img src ="https://api.iconify.design/uiw/linkedin.svg?color=%2300aae4&width=100&height=100"/></a>
+  </p
+
 ## Profile
 <li>Software QA Analyst</li> 
 <li>Software Tester</li>
