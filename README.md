@@ -2,10 +2,10 @@
 
 ## Contact
 
-# Email
+### Email
 <li>Email: agustin.amaya.g21@gmail.com</li>
 
-# Linkedin
+### Linkedin
   <p>
   <a href="https://ni.linkedin.com/in/agust%C3%ADn-gustavo-amaya-soza-b3b110244"><img src ="https://api.iconify.design/uiw/linkedin.svg?color=%2300aae4&width=50&height=50"/></a>
   </p>
