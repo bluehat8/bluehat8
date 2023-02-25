@@ -1,4 +1,4 @@
-# 👋 Hello, it's BlueHat dev
+## 👋 Hello, it's BlueHat dev
 
 ## Contact
 
