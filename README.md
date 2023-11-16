@@ -12,7 +12,6 @@
 <li>Software Tester</li>
 <li>Dot net developer</li>
 <li>Python developer</li>
-<li>Data Analyst</li>
 
 ## Tech stack
 <div style="display:flex; flex-direction: row;">
