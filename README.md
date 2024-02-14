@@ -8,8 +8,6 @@
   </p>
 
 ## Profile
-<li>Software QA Analyst</li> 
-<li>Software Tester</li>
 <li>Dot net developer</li>
 <li>Python developer</li>
 
@@ -27,7 +25,6 @@
   <p>
             <img src ="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>
             <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"/>
-            <img src ="https://api.iconify.design/logos/microsoft-power-bi.svg?color=%2300aae4&width=60&height=60"/>
   </p
 </div>
 
