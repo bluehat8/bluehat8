@@ -5,8 +5,6 @@ I'm a passionate **Web3 Developer**, working on decentralized applications (dApp
 ## 📞 Contact
 
 - **Email**: [agustin.amaya.g21@gmail.com](mailto:agustin.amaya.g21@gmail.com)
-- **LinkedIn**: [Agustín Gustavo Amaya Soza](https://ni.linkedin.com/in/agust%C3%ADn-gustavo-amaya-soza-b3b110244)
-
 <div style="display: flex; flex-direction: row;">
   <a href="https://ni.linkedin.com/in/agust%C3%ADn-gustavo-amaya-soza-b3b110244">
     <img src="https://api.iconify.design/uiw/linkedin.svg?color=%2300aae4&width=35&height=35"/>
@@ -23,15 +21,14 @@ I'm a passionate **Web3 Developer**, working on decentralized applications (dApp
 ## 🔧 Tech Stack
 
 ### Backend
-- **C# (.NET)**: Building robust and scalable APIs, microservices, and enterprise-level applications.
-- **Python**: Developing backend systems, automation tools, and machine learning solutions.
+- **C# (.NET)**
+- **Python**
 
 ### Blockchain & Web3
 - **Solidity**: Writing secure and efficient smart contracts.
 - **Web3.js**: Interfacing with Ethereum and other blockchains using JavaScript.
 - **Web3.py**: Python library for interacting with Ethereum, perfect for backend services in dApps.
 - **Scaffold-ETH2**: Building dApps quickly and securely using this Ethereum development toolkit.
-- **Smart Contracts**: Experience in creating decentralized applications with custom logic and security.
 
 ### Database & Other
 - **MySQL**
@@ -39,7 +36,8 @@ I'm a passionate **Web3 Developer**, working on decentralized applications (dApp
 - **SQL SERVER**
 
 ### Frontend
-- **React**: Building dynamic user interfaces for blockchain applications.
+- **React**
+- **Svelte**
 
 ## 🌱 Currently learning
 
