@@ -6,7 +6,7 @@ I'm a passionate **Web3 Developer**, working on decentralized applications (dApp
 
 - **Email**: [agustin.amaya.g21@gmail.com](mailto:agustin.amaya.g21@gmail.com)
 <div style="display: flex; flex-direction: row;">
-  <a href="https://ni.linkedin.com/in/agust%C3%ADn-gustavo-amaya-soza-b3b110244">
+  <a href="www.linkedin.com/in/agustín-amaya-b3b110244">
     <img src="https://api.iconify.design/uiw/linkedin.svg?color=%2300aae4&width=35&height=35"/>
   </a>  
 </div>
