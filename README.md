@@ -1,32 +1,53 @@
-## 👋 Hello, it's BlueHat dev
+# 👋 Hello, I'm BlueHat Dev
 
-## Contact
+I'm a passionate **Web3 Developer**, working on decentralized applications (dApps), blockchain technologies, and smart contracts. My journey includes Solidity, Scaffold-ETH2, Web3.js, Web3.py, and much more. I'm also a **Dot Net** and **Python** developer, blending the world of traditional and blockchain development to create innovative solutions.
 
-#### Email: <a href="mailto:agustin.amaya.g21@gmail.com">agustin.amaya.g21@gmail.com</a>
-<p>
-  <a href="https://ni.linkedin.com/in/agust%C3%ADn-gustavo-amaya-soza-b3b110244"><img src ="https://api.iconify.design/uiw/linkedin.svg?color=%2300aae4&width=35&height=35"/></a>  
-  </p>
+## 📞 Contact
 
-## Profile
-<li>Dot net developer</li>
-<li>Python developer</li>
+- **Email**: [agustin.amaya.g21@gmail.com](mailto:agustin.amaya.g21@gmail.com)
+- **LinkedIn**: [Agustín Gustavo Amaya Soza](https://ni.linkedin.com/in/agust%C3%ADn-gustavo-amaya-soza-b3b110244)
 
-## Tech stack
-<div style="display:flex; flex-direction: row;">
-  <p>
-    <img src ="https://api.iconify.design/skill-icons/python-dark.svg?width=60&height=60"/>
-        <img src ="https://api.iconify.design/skill-icons/mysql-dark.svg?width=60&height=60"/>
-        <img src ="https://api.iconify.design/logos/c-sharp.svg?width=60&height=60"/>
-
-  </p>
-  
-  <p>
-            <img src ="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>
-            <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"/>
-  </p
+<div style="display: flex; flex-direction: row;">
+  <a href="https://ni.linkedin.com/in/agust%C3%ADn-gustavo-amaya-soza-b3b110244">
+    <img src="https://api.iconify.design/uiw/linkedin.svg?color=%2300aae4&width=35&height=35"/>
+  </a>  
 </div>
 
-<!---
-bluehat8/bluehat8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Profile
+
+- **Web3 Developer** with expertise in **Solidity**, **Smart Contracts**, and **dApp** development.
+- Proficient in backend technologies such as **.NET** and **Python**.
+- Deep experience with blockchain integration using **Web3.js** and **Web3.py**.
+- Experienced in building **DeFi** solutions and working with Ethereum, **Scroll** networks, and **Scaffold-ETH2**.
+
+## 🔧 Tech Stack
+
+### Backend
+- **C# (.NET)**: Building robust and scalable APIs, microservices, and enterprise-level applications.
+- **Python**: Developing backend systems, automation tools, and machine learning solutions.
+
+### Blockchain & Web3
+- **Solidity**: Writing secure and efficient smart contracts.
+- **Web3.js**: Interfacing with Ethereum and other blockchains using JavaScript.
+- **Web3.py**: Python library for interacting with Ethereum, perfect for backend services in dApps.
+- **Scaffold-ETH2**: Building dApps quickly and securely using this Ethereum development toolkit.
+- **Smart Contracts**: Experience in creating decentralized applications with custom logic and security.
+
+### Database & Other
+- **MySQL**
+- **PostgreSQL**
+- **SQL SERVER**
+
+### Frontend
+- **React**: Building dynamic user interfaces for blockchain applications.
+
+## 🌱 Currently learning
+
+- **Web3 development frameworks**: Exploring new tools in the blockchain space, such as **Hardhat** and **Truffle**.
+- **Decentralized Finance (DeFi)**: Developing protocols for decentralized lending, staking, and yield farming.
+
+---
+
+<!--- bluehat8/bluehat8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
