@@ -15,7 +15,7 @@ I'm a passionate **Web3 Developer**, working on decentralized applications (dApp
 
 - **Web3 Developer** with expertise in **Solidity**, **Smart Contracts**, and **dApp** development.
 - Proficient in backend technologies such as **.NET** and **Python**.
-- Deep experience with blockchain integration using **Web3.js** and **Web3.py**.
+- Experience with blockchain integration using **Web3.js** and **Web3.py**.
 - Experienced in building **DeFi** solutions and working with Ethereum, **Scroll** networks, and **Scaffold-ETH2**.
 
 ## 🔧 Tech Stack
